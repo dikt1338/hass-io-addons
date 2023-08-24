@@ -36,7 +36,6 @@ schema:
   ip_address: "str?"
   dest_port: "port?"
   custom_config: "str?"
-watchdog: "tcp://[HOST]:[PORT:6720]"
 ports:
   "6720/tcp": 6720
   "3671/udp": 3671
