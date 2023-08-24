@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.8
+ - bumped to knxd 0.14.59
+
 ## 0.4.7
 
 - bumped docker base image to 3.16 again
